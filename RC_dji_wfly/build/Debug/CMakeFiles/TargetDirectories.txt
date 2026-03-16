@@ -1,0 +1,6 @@
+D:/桌面/RC/RC/build/Debug/CMakeFiles/remote_control.dir
+D:/桌面/RC/RC/build/Debug/CMakeFiles/edit_cache.dir
+D:/桌面/RC/RC/build/Debug/CMakeFiles/rebuild_cache.dir
+D:/桌面/RC/RC/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+D:/桌面/RC/RC/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/桌面/RC/RC/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

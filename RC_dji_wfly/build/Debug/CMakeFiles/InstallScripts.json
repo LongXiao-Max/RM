@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/\u684c\u9762/RC/RC/build/Debug/cmake_install.cmake",
+		"D:/\u684c\u9762/RC/RC/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

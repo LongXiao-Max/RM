@@ -1,0 +1,164 @@
+[
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/app -ID:/桌面/RC/RC/bsp -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\remote_control.dir\\Src\\main.c.obj -c D:\\桌面\\RC\\RC\\Src\\main.c",
+  "file": "D:\\桌面\\RC\\RC\\Src\\main.c",
+  "output": "CMakeFiles\\remote_control.dir\\Src\\main.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/app -ID:/桌面/RC/RC/bsp -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\remote_control.dir\\Src\\gpio.c.obj -c D:\\桌面\\RC\\RC\\Src\\gpio.c",
+  "file": "D:\\桌面\\RC\\RC\\Src\\gpio.c",
+  "output": "CMakeFiles\\remote_control.dir\\Src\\gpio.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/app -ID:/桌面/RC/RC/bsp -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\remote_control.dir\\Src\\dma.c.obj -c D:\\桌面\\RC\\RC\\Src\\dma.c",
+  "file": "D:\\桌面\\RC\\RC\\Src\\dma.c",
+  "output": "CMakeFiles\\remote_control.dir\\Src\\dma.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/app -ID:/桌面/RC/RC/bsp -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\remote_control.dir\\Src\\usart.c.obj -c D:\\桌面\\RC\\RC\\Src\\usart.c",
+  "file": "D:\\桌面\\RC\\RC\\Src\\usart.c",
+  "output": "CMakeFiles\\remote_control.dir\\Src\\usart.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/app -ID:/桌面/RC/RC/bsp -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\remote_control.dir\\Src\\stm32f4xx_it.c.obj -c D:\\桌面\\RC\\RC\\Src\\stm32f4xx_it.c",
+  "file": "D:\\桌面\\RC\\RC\\Src\\stm32f4xx_it.c",
+  "output": "CMakeFiles\\remote_control.dir\\Src\\stm32f4xx_it.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/app -ID:/桌面/RC/RC/bsp -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\remote_control.dir\\Src\\stm32f4xx_hal_msp.c.obj -c D:\\桌面\\RC\\RC\\Src\\stm32f4xx_hal_msp.c",
+  "file": "D:\\桌面\\RC\\RC\\Src\\stm32f4xx_hal_msp.c",
+  "output": "CMakeFiles\\remote_control.dir\\Src\\stm32f4xx_hal_msp.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/app -ID:/桌面/RC/RC/bsp -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\remote_control.dir\\Src\\sysmem.c.obj -c D:\\桌面\\RC\\RC\\Src\\sysmem.c",
+  "file": "D:\\桌面\\RC\\RC\\Src\\sysmem.c",
+  "output": "CMakeFiles\\remote_control.dir\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/app -ID:/桌面/RC/RC/bsp -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\remote_control.dir\\Src\\syscalls.c.obj -c D:\\桌面\\RC\\RC\\Src\\syscalls.c",
+  "file": "D:\\桌面\\RC\\RC\\Src\\syscalls.c",
+  "output": "CMakeFiles\\remote_control.dir\\Src\\syscalls.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/app -ID:/桌面/RC/RC/bsp -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -x assembler-with-cpp -MMD -MP -g -o CMakeFiles\\remote_control.dir\\startup_stm32f407xx.s.obj -c D:\\桌面\\RC\\RC\\startup_stm32f407xx.s",
+  "file": "D:\\桌面\\RC\\RC\\startup_stm32f407xx.s",
+  "output": "CMakeFiles\\remote_control.dir\\startup_stm32f407xx.s.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/app -ID:/桌面/RC/RC/bsp -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\remote_control.dir\\app\\remote_control.c.obj -c D:\\桌面\\RC\\RC\\app\\remote_control.c",
+  "file": "D:\\桌面\\RC\\RC\\app\\remote_control.c",
+  "output": "CMakeFiles\\remote_control.dir\\app\\remote_control.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/app -ID:/桌面/RC/RC/bsp -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\remote_control.dir\\bsp\\bsp_rc.c.obj -c D:\\桌面\\RC\\RC\\bsp\\bsp_rc.c",
+  "file": "D:\\桌面\\RC\\RC\\bsp\\bsp_rc.c",
+  "output": "CMakeFiles\\remote_control.dir\\bsp\\bsp_rc.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/app -ID:/桌面/RC/RC/bsp -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\remote_control.dir\\bsp\\bsp_usart.c.obj -c D:\\桌面\\RC\\RC\\bsp\\bsp_usart.c",
+  "file": "D:\\桌面\\RC\\RC\\bsp\\bsp_usart.c",
+  "output": "CMakeFiles\\remote_control.dir\\bsp\\bsp_usart.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Src\\system_stm32f4xx.c.obj -c D:\\桌面\\RC\\RC\\Src\\system_stm32f4xx.c",
+  "file": "D:\\桌面\\RC\\RC\\Src\\system_stm32f4xx.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Src\\system_stm32f4xx.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_uart.c.obj -c D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_uart.c",
+  "file": "D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_uart.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_uart.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc.c.obj -c D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc.c",
+  "file": "D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc_ex.c.obj -c D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc_ex.c",
+  "file": "D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc_ex.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash.c.obj -c D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash.c",
+  "file": "D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ex.c.obj -c D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ex.c",
+  "file": "D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ex.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ramfunc.c.obj -c D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ramfunc.c",
+  "file": "D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ramfunc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ramfunc.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_gpio.c.obj -c D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_gpio.c",
+  "file": "D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_gpio.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_gpio.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma_ex.c.obj -c D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma_ex.c",
+  "file": "D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma_ex.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma.c.obj -c D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma.c",
+  "file": "D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr.c.obj -c D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr.c",
+  "file": "D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr_ex.c.obj -c D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr_ex.c",
+  "file": "D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr_ex.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_cortex.c.obj -c D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_cortex.c",
+  "file": "D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_cortex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_cortex.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal.c.obj -c D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal.c",
+  "file": "D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal.c.obj"
+},
+{
+  "directory": "D:/桌面/RC/RC/build/Debug",
+  "command": "C:\\Users\\gxl20\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/桌面/RC/RC/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_exti.c.obj -c D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_exti.c",
+  "file": "D:\\桌面\\RC\\RC\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_exti.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_exti.c.obj"
+}
+]
